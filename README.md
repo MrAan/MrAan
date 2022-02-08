@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrAan, or you can call me Azhan.
 - 👀 I’m interested in web development. 
 - 👀 Will be doing my internship placement in assisting in software development and improvement in this upcoming March. 
-- 🌱 Currently learning React.js especially the hooks and redux. 
+- 🌱 Currently learning JSX. 
 - 💞️ I’m looking to collaborate on any project so that i can improve more on my skills and knowledge.
 - 📫 How to reach me ?
 - - - - Twitter: @azhanhannan
